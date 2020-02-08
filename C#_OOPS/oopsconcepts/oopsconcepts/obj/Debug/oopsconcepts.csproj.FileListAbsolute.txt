@@ -1,0 +1,7 @@
+C:\C#\oopsconcepts\oopsconcepts\bin\Debug\oopsconcepts.exe.config
+C:\C#\oopsconcepts\oopsconcepts\bin\Debug\oopsconcepts.exe
+C:\C#\oopsconcepts\oopsconcepts\bin\Debug\oopsconcepts.pdb
+C:\C#\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.csprojResolveAssemblyReference.cache
+C:\C#\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.csproj.CoreCompileInputs.cache
+C:\C#\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.exe
+C:\C#\oopsconcepts\oopsconcepts\obj\Debug\oopsconcepts.pdb
