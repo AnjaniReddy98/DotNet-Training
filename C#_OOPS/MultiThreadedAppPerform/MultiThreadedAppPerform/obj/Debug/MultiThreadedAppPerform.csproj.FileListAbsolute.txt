@@ -1,0 +1,7 @@
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\obj\Debug\MultiThreadedAppPerform.csprojResolveAssemblyReference.cache
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\obj\Debug\MultiThreadedAppPerform.csproj.CoreCompileInputs.cache
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\bin\Debug\MultiThreadedAppPerform.exe.config
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\bin\Debug\MultiThreadedAppPerform.exe
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\bin\Debug\MultiThreadedAppPerform.pdb
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\obj\Debug\MultiThreadedAppPerform.exe
+C:\C#\MultiThreadedAppPerform\MultiThreadedAppPerform\obj\Debug\MultiThreadedAppPerform.pdb
